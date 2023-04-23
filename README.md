@@ -1,3 +1,10 @@
+
+<strong> Olá, bem vindo ao meu GitHub.
+<br><br>
+📚 Sou um Estudante de Analise e Desenvolvimento de Sistemas.
+<br><br>
+📚 Atualmente estudo Front-End na B7 Web e na Udemy. </strong>
+
 <div>
    <a href="https://github.com/PauloCatto">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloCatto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
