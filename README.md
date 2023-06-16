@@ -1,7 +1,7 @@
 
 <strong> Olá, bem vindo ao meu GitHub.
 <br><br>
-📚 Sou um Estudante de Analise e Desenvolvimento de Sistemas.
+📚 Estudante de Analise e Desenvolvimento de Sistemas.
 <br><br>
 📚 Front-end </strong>
 
