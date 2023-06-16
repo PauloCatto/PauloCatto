@@ -3,7 +3,7 @@
 <br><br>
 📚 Sou um Estudante de Analise e Desenvolvimento de Sistemas.
 <br><br>
-📚 Atualmente estudo Front-End na B7 Web e na Udemy. </strong>
+📚 Front-end </strong>
 
 <div>
    <a href="https://github.com/PauloCatto">
