@@ -3,7 +3,7 @@
 <br><br>
 📚 Estudante de Analise e Desenvolvimento de Sistemas
 <br><br>
-📚 Front-end </strong>
+📚 Estudante de Front-end na Alura </strong>
 
 <div>
    <a href="https://github.com/PauloCatto">
