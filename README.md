@@ -18,17 +18,9 @@
 </div>
 
 <div align="left">
-    <h2>Ferramentas e Métodos 🔄</h2>
-</div>
-
-<div align="left">
-    <p>Sou proficiente no uso de metodologias ágeis como Scrum e ferramentas de gerenciamento de projetos como Jira. Atualmente, estou trabalhando com tecnologias como Angular 14, JavaScript, TypeScript, CSS e HTML.</p>
-</div>
-
-<div align="left">
     <h2>Competências 🌟</h2>
 </div>
 
 <div align="left">
-    <p>Minhas competências incluem TypeScript, Git, Jira, Desenvolvimento Front-End, Scrum, Algoritmos, JavaScript, CSS e HTML5.</p>
+    <p>Sou proficiente no uso de metodologias ágeis como Scrum e ferramentas de gerenciamento de projetos como Jira. Atualmente, estou trabalhando com tecnologias como Angular 14, JavaScript, TypeScript, CSS e HTML.</p>
 </div>
