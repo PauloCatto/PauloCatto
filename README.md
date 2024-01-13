@@ -14,7 +14,7 @@
 </div>
 
 <div align="left">
-    <p>Sou um estudante de Análise e Desenvolvimento de Sistemas, com previsão de conclusão em dezembro de 2023. Estou comprometido com a aprendizagem contínua e atualmente sou aluno da plataforma Alura, onde estou aprimorando minhas habilidades e conhecimentos em desenvolvimento.</p>
+    <p>Sou um estudante de Análise e Desenvolvimento de Sistemas, com previsão de conclusão em julho de 2024. Estou comprometido com a aprendizagem contínua e atualmente sou aluno da plataforma Alura, onde estou aprimorando minhas habilidades e conhecimentos em desenvolvimento.</p>
 </div>
 
 <div align="left">
