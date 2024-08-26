@@ -22,7 +22,7 @@
 </div>
 
 <div align="left">
-    <p>Sou proficiente no uso de metodologias ágeis como Scrum e Jira. Atualmente, estou trabalhando com tecnologias como Angular 14, JavaScript, TypeScript, CSS e HTML.</p>
+    <p>Sou proficiente no uso de metodologias ágeis como Scrum e Jira. Atualmente, estou trabalhando com as seguintes tecnologias:  Angular, JavaScript, TypeScript, CSS e HTML.</p>
 </div>
 
 <div align="left">
