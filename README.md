@@ -15,8 +15,29 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=ef233c" alt="Angular" style="display: inline-block;" />
+ <img
+        src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=ef233c"
+        alt="Angular"
+        style="display: inline-block; margin-right: 10px"
+      />
+      <img
+        src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"
+        alt="TypeScript"
+        style="display: inline-block; margin-right: 10px"
+      />
+      <img
+        src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"
+        alt="JavaScript"
+        style="display: inline-block; margin-right: 10px"
+      />
+      <img
+        src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"
+        alt="HTML"
+        style="display: inline-block; margin-right: 10px"
+      />
+      <img
+        src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"
+        alt="CSS"
+        style="display: inline-block; margin-right: 10px"
+      />
 </div>
