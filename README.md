@@ -1,6 +1,6 @@
  ## Olá 👋🏻 sou o Paulo Catto
     
- #### Desenvolvedor Front-End, tenho 28 anos e experiência em projetos reais utilizando Angular. Especializado em criar soluções dinâmicas e escaláveis. Estou sempre em busca de me atualizar com as últimas tecnologias e melhores práticas de programação.
+ #### Desenvolvedor Front-End, tenho 29 anos e experiência em projetos reais utilizando Angular. Especializado em criar soluções dinâmicas e escaláveis. Estou sempre em busca de me atualizar com as últimas tecnologias e melhores práticas de programação.
 <div align="center">
     <a href="https://www.linkedin.com/in/paulocatto/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
