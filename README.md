@@ -8,7 +8,7 @@
 </div>
 <br>
 <div align="center" >
-  <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=PauloCatto&show_icons=true&theme=dark"/> 
+  <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=PauloCatto&show_icons=truetrue&count_private=true&hide_title=true&hide_border=true&include_all_commits=true&theme=dark"/> 
   <img height="200em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCatto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
@@ -41,3 +41,11 @@
         style="display: inline-block; margin-right: 10px"
       />
 </div>
+
+<table style="margin-top: 50px;">
+  <tr>
+    <td>
+      <img width="1000px" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contributions">
+    </td>
+  </tr>
+</table>
